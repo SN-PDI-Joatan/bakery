@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_783096_bakery_requests">x_783096_bakery_requests</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>BKREQ</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-09-29 13:17:16</sys_created_on>
+        <sys_id>1f9d0a0e472131106f90d437536d431f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BKREQ</sys_name>
+        <sys_package display_value="Bakery" source="x_783096_bakery">2a3d020e472131106f90d437536d438b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bakery">2a3d020e472131106f90d437536d438b</sys_scope>
+        <sys_update_name>sys_number_1f9d0a0e472131106f90d437536d431f</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-09-29 13:17:16</sys_updated_on>
+    </sys_number>
+</record_update>

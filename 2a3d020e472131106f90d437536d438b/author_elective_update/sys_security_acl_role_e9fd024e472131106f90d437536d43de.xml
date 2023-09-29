@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-09-29 13:18:48</sys_created_on>
+        <sys_id>e9fd024e472131106f90d437536d43de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_783096_bakery_drink.x_783096_bakery.admin</sys_name>
+        <sys_package display_value="Bakery" source="x_783096_bakery">2a3d020e472131106f90d437536d438b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bakery">2a3d020e472131106f90d437536d438b</sys_scope>
+        <sys_security_acl display_value="x_783096_bakery_drink">29fd024e472131106f90d437536d4391</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e9fd024e472131106f90d437536d43de</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-09-29 13:18:48</sys_updated_on>
+        <sys_user_role display_value="x_783096_bakery.admin" name="x_783096_bakery.admin">b23d020e472131106f90d437536d4394</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bakery">2a3d020e472131106f90d437536d438b</application>
+        <file_path/>
+        <instance_id>035b2a49dbcfe59c4162684e1396199b</instance_id>
+        <instance_name>dev174905</instance_name>
+        <name>sys_security_acl_role_e9fd024e472131106f90d437536d43de</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>joatan</sys_created_by><sys_created_on>2023-09-29 13:18:48</sys_created_on><sys_id>e9fd024e472131106f90d437536d43de</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_783096_bakery_drink.x_783096_bakery.admin</sys_name><sys_package display_value="Bakery" source="x_783096_bakery">2a3d020e472131106f90d437536d438b</sys_package><sys_policy/><sys_scope display_value="Bakery">2a3d020e472131106f90d437536d438b</sys_scope><sys_security_acl display_value="x_783096_bakery_drink">29fd024e472131106f90d437536d4391</sys_security_acl><sys_update_name>sys_security_acl_role_e9fd024e472131106f90d437536d43de</sys_update_name><sys_updated_by>joatan</sys_updated_by><sys_updated_on>2023-09-29 13:18:48</sys_updated_on><sys_user_role display_value="x_783096_bakery.admin" name="x_783096_bakery.admin">b23d020e472131106f90d437536d4394</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-74651113</payload_hash>
+        <record_name>x_783096_bakery_drink.x_783096_bakery.admin</record_name>
+        <reverted_from/>
+        <source>fa3d020e472131106f90d437536d438f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-09-29 13:18:48</sys_created_on>
+        <sys_id>edfd024e472131106f90d437536d43e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ae1177f720000001</sys_recorded_at>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-09-29 13:18:48</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>25fd024e1a213110ed0b9203abcf7ee0</update_guid>
+        <update_guid_history>25fd024e1a213110ed0b9203abcf7ee0:-74651113</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_783096_bakery_drink.x_783096_bakery.admin">023ec64e472131106f90d437536d4338</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-09-29 13:19:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>443df8cdd8ef4e1788d0bb122fe8a859</sys_id>
+        <sys_metadata>e9fd024e472131106f90d437536d43de</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_783096_bakery_drink.x_783096_bakery.admin</sys_name>
+        <sys_package display_value="Bakery" source="x_783096_bakery">2a3d020e472131106f90d437536d438b</sys_package>
+        <sys_parent display_value="">29fd024e472131106f90d437536d4391</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bakery">2a3d020e472131106f90d437536d438b</sys_scope>
+        <sys_scope_delete display_value="">109f10f70afe406192473c300d34f561</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_e9fd024e472131106f90d437536d43de</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_e9fd024e472131106f90d437536d43de">edfd024e472131106f90d437536d43e0</sys_update_version>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-09-29 13:19:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

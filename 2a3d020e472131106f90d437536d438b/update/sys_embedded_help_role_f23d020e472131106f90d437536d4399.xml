@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_783096_bakery.user" name="x_783096_bakery.user">b63d020e472131106f90d437536d4398</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-09-29 13:15:36</sys_created_on>
+        <sys_id>f23d020e472131106f90d437536d4399</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b63d020e472131106f90d437536d4398</sys_name>
+        <sys_package display_value="Bakery" source="x_783096_bakery">2a3d020e472131106f90d437536d438b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bakery">2a3d020e472131106f90d437536d438b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f23d020e472131106f90d437536d4399</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-09-29 13:15:36</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_783096_bakery_drink">x_783096_bakery_drink</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>DRINK</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-09-29 13:19:24</sys_created_on>
+        <sys_id>161e02ca472131106f90d437536d431d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DRINK</sys_name>
+        <sys_package display_value="Bakery" source="x_783096_bakery">2a3d020e472131106f90d437536d438b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bakery">2a3d020e472131106f90d437536d438b</sys_scope>
+        <sys_update_name>sys_number_161e02ca472131106f90d437536d431d</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-09-29 13:19:24</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bakery">2a3d020e472131106f90d437536d438b</application>
+        <file_path/>
+        <instance_id>035b2a49dbcfe59c4162684e1396199b</instance_id>
+        <instance_name>dev174905</instance_name>
+        <name>sys_number_161e02ca472131106f90d437536d431d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_783096_bakery_drink">x_783096_bakery_drink</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>DRINK</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>joatan</sys_created_by><sys_created_on>2023-09-29 13:19:24</sys_created_on><sys_id>161e02ca472131106f90d437536d431d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DRINK</sys_name><sys_package display_value="Bakery" source="x_783096_bakery">2a3d020e472131106f90d437536d438b</sys_package><sys_policy/><sys_scope display_value="Bakery">2a3d020e472131106f90d437536d438b</sys_scope><sys_update_name>sys_number_161e02ca472131106f90d437536d431d</sys_update_name><sys_updated_by>joatan</sys_updated_by><sys_updated_on>2023-09-29 13:19:24</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>1845344664</payload_hash>
+        <record_name>DRINK</record_name>
+        <reverted_from/>
+        <source>fa3d020e472131106f90d437536d438f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-09-29 13:19:24</sys_created_on>
+        <sys_id>ae1e064e472131106f90d437536d43ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ae1180e7d0000001</sys_recorded_at>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-09-29 13:19:24</sys_updated_on>
+        <type>Number</type>
+        <update_guid>e21e064e0621311058fec4f2d9d0aeee</update_guid>
+        <update_guid_history>e21e064e0621311058fec4f2d9d0aeee:1845344664</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-09-29 13:19:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>14b6b8e5409b4c1e8742aa0d75f1c424</sys_id>
+        <sys_metadata>161e02ca472131106f90d437536d431d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DRINK</sys_name>
+        <sys_package display_value="Bakery" source="x_783096_bakery">2a3d020e472131106f90d437536d438b</sys_package>
+        <sys_parent display_value="">a8fd024e472131106f90d437536d431d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bakery">2a3d020e472131106f90d437536d438b</sys_scope>
+        <sys_scope_delete display_value="">109f10f70afe406192473c300d34f561</sys_scope_delete>
+        <sys_update_name>sys_number_161e02ca472131106f90d437536d431d</sys_update_name>
+        <sys_update_version display_value="sys_number_161e02ca472131106f90d437536d431d">ae1e064e472131106f90d437536d43ee</sys_update_version>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-09-29 13:19:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
